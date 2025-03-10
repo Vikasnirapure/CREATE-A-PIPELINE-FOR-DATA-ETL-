@@ -7,3 +7,5 @@ INTERN ID :CT08SYQ
 DOMAIN : DATA SCIENCE
 DURATION : 4 WEEKS
 MENTOR :NEELA SANTHOSH KUMAR
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/4e77bb02-b1d8-4349-b43c-0d097a5d6323)
